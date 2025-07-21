@@ -3,23 +3,41 @@
 Project Introduction：
 This is the "hf project" repository containing research code and resources for a heat transfer analysis project. The project implements multiple approaches to solve 2D steady-state heat conduction problems, including analytical, numerical, and machine learning methods.
 
-Code Directory Structure：
+# Code Directory Structure
 /hf_project/
-├── __pycache__/               # Python cache files
-├── data_1.py                  # Data processing script 1
-├── data_2.py                  # Data processing script 2
-├── data_3.py                  # Data processing script 3
-├── data_4.py                  # Data processing script 4
-├── ex.ipynb                   # Example Jupyter notebook
-├── initial.ipynb              # Initial analysis notebook
-├── initial copy.ipynb         # Backup of initial notebook
-├── project code.ipynb         # Main project notebook
-├── loss.dat                   # Training loss data
-├── test.dat                   # Test dataset
-├── train.dat                  # Training dataset
-├── plate.pdf                  # Plate geometry documentation
-├── 图片1.png                   # Result visualization 1
-├── 图片2.png                   # Result visualization 2
-├── 图片6.png                   # Result visualization 6
-├── 图片7.png                   # Result visualization 7
-└── 图片8.png                   # Result visualization 8
+
+├── pycache/ # Python编译缓存文件
+
+├── data_1.py # 数据处理脚本1
+
+├── data_2.py # 数据处理脚本2
+
+├── data_3.py # 数据处理脚本3
+
+├── data_4.py # 数据处理脚本4
+
+├── ex.ipynb # 示例Jupyter笔记本
+
+├── initial.ipynb # 初始分析笔记本
+
+├── initial copy.ipynb # 初始笔记本备份
+
+├── project code.ipynb # 主项目笔记本
+
+├── loss.dat # 训练损失数据
+
+├── test.dat # 测试数据集
+
+├── train.dat # 训练数据集
+
+├── plate.pdf # 平板几何文档
+
+├── 图片1.png # 结果可视化图1
+
+├── 图片2.png # 结果可视化图2
+
+├── 图片6.png # 结果可视化图6
+
+├── 图片7.png # 结果可视化图7
+
+└── 图片8.png # 结果可视化图8
